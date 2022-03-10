@@ -11,5 +11,6 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    'linebreak-style': 0, // 加入此行 ESLint 可運行
   },
 };
